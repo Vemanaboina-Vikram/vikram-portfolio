@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import avatar from "../assets/avatar/vikram.jpg";
+import avatar from "../assets/avatar/vikram.png";
 import ParticleBackground from "./ParticleBackground";
 import { Link } from "react-scroll";
 
